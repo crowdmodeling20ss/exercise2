@@ -6,6 +6,6 @@ rimea_1_2020-05-14_02-44-37.237 = rimea 1 OSM
 rimea_1_2020-05-14_02-45-26.85 = rimea 1 GNM
 rimea_1_2020-05-14_02-46-33.942 = rimea 1 SFM
 
-rimea_6_2020-05-14_02-48-41.239 = rimea 6 OSM
-rimea_6_2020-05-14_02-49-47.938 = rimea 6 GNM
-rimea_6_2020-05-14_02-50-28.35 = rimea 6 SFM
+rimea_6_2020-05-14_03-56-09.914 = rimea 6 OSM
+rimea_6_2020-05-14_03-57-30.165 = rimea 6 GNM
+rimea_6_2020-05-14_03-58-29.530 = rimea 6 SFM
