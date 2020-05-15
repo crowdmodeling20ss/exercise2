@@ -153,7 +153,24 @@
       } ],
       "measurementAreas" : [ ],
       "stairs" : [ ],
-      "targets" : [ ],
+      "targets" : [ {
+        "id" : 7,
+        "absorbing" : true,
+        "shape" : {
+          "x" : 39.2,
+          "y" : 30.0,
+          "width" : 10.0,
+          "height" : 10.0,
+          "type" : "RECTANGLE"
+        },
+        "waitingTime" : 0.0,
+        "waitingTimeYellowPhase" : 0.0,
+        "parallelWaiters" : 0,
+        "individualWaiting" : true,
+        "deletionDistance" : 0.1,
+        "startingWithRedLight" : false,
+        "nextSpeed" : -1.0
+      } ],
       "targetChangers" : [ ],
       "absorbingAreas" : [ ],
       "sources" : [ {
@@ -174,7 +191,7 @@
         "spawnAtRandomPositions" : false,
         "spawnAtGridPositionsCA" : false,
         "useFreeSpaceOnly" : true,
-        "targetIds" : [ ],
+        "targetIds" : [ 7 ],
         "groupSizeDistribution" : [ 1.0 ],
         "dynamicElementType" : "PEDESTRIAN",
         "attributesPedestrian" : null
@@ -196,7 +213,7 @@
         "spawnAtRandomPositions" : false,
         "spawnAtGridPositionsCA" : false,
         "useFreeSpaceOnly" : true,
-        "targetIds" : [ ],
+        "targetIds" : [ 7 ],
         "groupSizeDistribution" : [ 1.0 ],
         "dynamicElementType" : "PEDESTRIAN",
         "attributesPedestrian" : null
@@ -218,7 +235,7 @@
         "spawnAtRandomPositions" : false,
         "spawnAtGridPositionsCA" : false,
         "useFreeSpaceOnly" : true,
-        "targetIds" : [ ],
+        "targetIds" : [ 7 ],
         "groupSizeDistribution" : [ 1.0 ],
         "dynamicElementType" : "PEDESTRIAN",
         "attributesPedestrian" : null
