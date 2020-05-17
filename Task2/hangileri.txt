@@ -1,11 +1,11 @@
-chicken_2020-05-14_02-30-13.869 = chicken test OSM
-chicken_2020-05-14_02-38-01.908 = chicken test GNM
-chicken_2020-05-14_02-39-36.789 = chicken test SFM
+chicken_2020-05-17_03-13-49.912 = chicken test OSM
+chicken_2020-05-17_03-29-00.632 = chicken test SFM
+chicken_2020-05-17_03-32-29.296 = chicken test GNM
 
-rimea_1_2020-05-14_02-44-37.237 = rimea 1 OSM
-rimea_1_2020-05-14_02-45-26.85 = rimea 1 GNM
-rimea_1_2020-05-14_02-46-33.942 = rimea 1 SFM
+rimea_1_2020-05-17_02-27-14.794 = rimea 1 OSM
+rimea_1_2020-05-17_03-16-26.748 = rimea 1 SFM
+rimea_1_2020-05-17_03-22-56.94  = rimea 1 GNM
 
-rimea_6_2020-05-14_03-56-09.914 = rimea 6 OSM
-rimea_6_2020-05-14_03-57-30.165 = rimea 6 GNM
-rimea_6_2020-05-14_03-58-29.530 = rimea 6 SFM
+rimea_6_2020-05-17_02-32-28.955 = rimea 6 OSM
+rimea_6_2020-05-17_03-24-57.988 = rimea 6 SFM
+rimea_6_2020-05-17_03-27-13.59  = rimea 6 GNM
