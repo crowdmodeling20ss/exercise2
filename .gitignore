@@ -1,2 +1,9 @@
 .DS_Store
+# IDEs
+.idea/
+*.iml
+.settings/
+.metadata/
+.classpath
+.project
 /*/output
