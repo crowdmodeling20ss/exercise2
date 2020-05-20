@@ -1,5 +1,5 @@
 # Exercise-2 Vadere
-This repository contains scenario files for tasks and respective generated outputs. To run these scenarios and show outut files, please check following projects:
+This repository contains scenario files for tasks and respective generated outputs. To run these scenarios and show output files, please check the following projects:
 - Vadere project: https://github.com/crowdmodeling20ss/vadere
 - SIR Visualization: https://github.com/crowdmodeling20ss/sir-visualization
 
