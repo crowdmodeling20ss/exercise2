@@ -26,13 +26,9 @@ def create_dynamicElements_field(pedestrian_data_arr, dynamicElements):
   for pedestrian in pedestrian_data_arr: # for each pedestrian object read from the file
     pedestrian_template = pedestrian_temp.copy()
     for key in pedestrian.keys(): # creating the dynamicElements for each pedestrian
-      if key != "count":
-        pedestrian_template[key] = pedestrian[key]  # change values of pedestrian_template
-      else:
-        count = pedestrian[key]
+      pedestrian_template[key] = pedestrian[key]  # change values of pedestrian_template
   
-    for i in range(count): # add the same template for number of pedestrians given in the add_pedestrian.json file as "count"
-      dynamic_new.append(pedestrian_template) 
+    dynamic_new.append(pedestrian_template) 
 
   if len(sys.argv) > 2 and sys.argv[2] == "1": # If we give 1 as argument, it means we will apend to existing pedestrians, not override
     for each in dynamic_new:
